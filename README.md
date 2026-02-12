@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/images/app_icon.png" alt="Poze Logo" width="120" height="120">
   
-  <h3>专业的拍照姿势参考应用</h3>
+  <h3>简易的拍照姿势参考应用</h3>
   
   [![Flutter](https://img.shields.io/badge/Flutter-3.19+-02569B?logo=flutter)](https://flutter.dev)
   [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)](https://dart.dev)
@@ -14,7 +14,7 @@
 
 ## 📱 应用简介
 
-Poze 是一款专业的拍照姿势参考应用，帮助摄影师和模特快速找到合适的拍摄姿势灵感。通过独特的12位编码系统，用户可以精确筛选所需的姿势类型。
+Poze 是一款使用ai编程（vibe coding）制作的简易拍照姿势参考应用，帮助摄影师和模特快速找到合适的拍摄姿势灵感。通过独特的12位编码系统，用户可以筛选所需的姿势类型。
 
 ### ✨ 核心功能
 
@@ -160,7 +160,7 @@ lib/
 ---
 
 ## 🙏 致谢
-
+- 感谢TRAE提供的工具
 - 感谢所有姿势图片的贡献者
 - Flutter 团队提供的优秀框架
 - 所有开源社区的贡献者
