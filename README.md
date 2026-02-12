@@ -53,7 +53,7 @@ Poze 是一款使用ai编程（vibe coding）制作的简易拍照姿势参考�
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/poze.git
+git clone https://github.com/zslongf-hash/poze.git
 cd poze
 
 # 安装依赖
@@ -170,7 +170,7 @@ lib/
 <div align="center">
   <p>如果这个项目对你有帮助，请给一个 ⭐️ Star！</p>
   
-  <a href="https://github.com/your-username/poze/issues">报告问题</a>
+  <a href="https://github.com/zslongf-hash/poze/issues">报告问题</a>
   ·
-  <a href="https://github.com/your-username/poze/discussions">讨论区</a>
+  <a href="https://github.com/zslongf-hash/poze/discussions">讨论区</a>
 </div>
